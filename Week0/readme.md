@@ -23,7 +23,7 @@ Use the keys 'a' and 'd' to move the spaceship left and right.  Click the spaceb
 
 <center>
 
-<video src="./Resources/demo.mp4" width="320" height="240" controls></video>
+[![Demo](./Resources/demo.gif)](./Resources/demo.mp4)
 
 </center>
 
