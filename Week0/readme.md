@@ -36,7 +36,7 @@ Use the keys 'a' and 'd' to move the spaceship left and right.  Click the spaceb
 - [x] Relatively complex
 
 ### Play it!
-Plat [pset0](image.png) to check out my solution at Scratch!
+Play [pset0](https://scratch.mit.edu/projects/825451865/) on Scratch!
 
 ## Score
 <center>
