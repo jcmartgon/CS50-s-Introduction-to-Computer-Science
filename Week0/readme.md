@@ -38,6 +38,8 @@ Use the keys 'a' and 'd' to move the spaceship left and right.  Click the spaceb
 ### Play it!
 Play [pset0](https://scratch.mit.edu/projects/825451865/) on Scratch!
 
+Alternatively you can download pset0.sb3 and load it onto scratch too!
+
 ## Score
 <center>
 
