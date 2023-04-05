@@ -1,0 +1,45 @@
+Author: Jesus Carlos Martinez Gonzalez
+Date: 05/04/2023
+Lab 3: Sort
+
+sort1 uses: Bubble
+
+How do you know?: Fastest when sorted, big difference in performance between worst and best case scenarios
+
+Times:
+
+    revered5000.txt:    0.148s
+    reversed10000.txt:  0.266s
+    revered50000.txt:   6.089s
+
+    sorted5000.txt:     0.059s
+    sorted10000.txt:    0.068s
+    sorted50000.txt:    0.611s
+
+sort2 uses: Merge
+
+How do you know?: Fastest overall, similar performance in both worst and best case scenarios
+
+Times:
+
+    revered5000.txt:    0.042s
+    reversed10000.txt:  0.059s
+    revered50000.txt:   0.581s
+
+    sorted5000.txt:     0.053s
+    sorted10000.txt:    0.068s
+    sorted50000.txt:    0.663s
+
+sort3 uses: Selection
+
+How do you know?: The slowest one overall, similar performances in both worst and best case scenarios
+
+Times:
+
+    revered5000.txt:    0.053s
+    reversed10000.txt:  0.186s
+    revered50000.txt:   3.473s
+
+    sorted5000.txt:     0.047s
+    sorted10000.txt:    0.168s
+    sorted50000.txt:    3.305s
