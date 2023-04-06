@@ -236,7 +236,7 @@ bool check_cycle(int root, int branch)
 
 ## Score
 
-![All good](resources/Score.png)
+![All good](Resources/Score.png)
 
 ## Usage
 
