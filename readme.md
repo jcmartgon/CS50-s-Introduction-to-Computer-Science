@@ -6,7 +6,7 @@ This is CS50 (aka CS50x through edX), Harvard University's introduction to the i
 - [x] Week 0 - Scratch
 - [x] Week 1 - C 
 - [x] Week 2 - Arrays
-- [ ] Week 3 - Algorithms
+- [x] Week 3 - Algorithms
 - [ ] Week 4 - Memory
 - [ ] Week 5 - Data Structures
 - [ ] Week 6 - Python

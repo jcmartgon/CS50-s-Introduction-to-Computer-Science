@@ -1,6 +1,6 @@
 // Author: Jesus Carlos Martinez Gonzalez
-// Date: 04/04/2023
-// Snackbar
+// Date: 05/04/2023
+// Plurality
 
 #include <cs50.h>
 #include <stdio.h>
