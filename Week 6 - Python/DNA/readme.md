@@ -47,8 +47,6 @@ In a file called dna.py, implement a program that identifies to whom a sequence 
 
 ## My solution
 
-Get the winners from each round and pass them to the next round until there's 1 team left, which is the winner.
-
 ```python
 # Ensure correct usage
     if len(sys.argv) != 3:
