@@ -10,8 +10,8 @@ This is CS50 (aka CS50x through edX), Harvard University's introduction to the i
 - [x] Week 4 - Memory
 - [x] Week 5 - Data Structures
 - [x] Week 6 - Python
-- [ ] Week 7 - SQL HTML, CSS, JavaScript
-- [ ] Week 8 -
+- [x] Week 7 - SQL
+- [ ] Week 8 - HTML, CSS, JavaScript
 - [ ] Week 9 - Flask
 - [ ] Week 10 - Emoji
 - [ ] Cybersecurity
